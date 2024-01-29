@@ -66,7 +66,7 @@ Variante 3:
 | 2        | R 47k       | 
 | 2        | LED 5mm rot        |
 | 2         | BC548       |
-| 2       | 10uF     |
+| 2       | C 10uF     |
 | 1        | Schaltdraht        |
 | 1        | CU-Band       |
 
