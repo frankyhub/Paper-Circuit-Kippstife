@@ -10,6 +10,7 @@ Einfache Blinkschaltung mit zwei Transistoren und zwei LEDs
 
 ![Schaltplan](/pic/Schaltplan.png)
 
+---
 
 ## Funktion
 
@@ -29,6 +30,7 @@ ist gleich der Speisespannung. Über R3 wird C2 aufgeladen und die Spannung an d
 Die Spannung am Kollektor von T1 wird auf 0.2V gezogen. Durch die Verbindung mit C1 sinkt dadurch auch die Basisspannung von T2. T2 beginnt zu sperren. 
 LED D2 erlischt und LED D1 leuchtet. Der Zyklus biginnt von vorne.
 
+---
 
 ## Berechnung der Frequenz
 
@@ -36,6 +38,7 @@ LED D2 erlischt und LED D1 leuchtet. Der Zyklus biginnt von vorne.
 
 In unserem Beispiel mit R=47k und C=10uF beträgt die Blinkfrequenz ca. 1,5Hz
 
+---
 
 ## Paper Circuit
 
@@ -53,7 +56,14 @@ Variante 3:
 
 ![Bild](/pic/PaperCircuit3.png)
 
+Farbcode der Widerstände:
 
+![Bild](/pic/470R.png)
+
+
+![Bild](/pic/47k.png)
+
+---
 
 
 ## BOM
